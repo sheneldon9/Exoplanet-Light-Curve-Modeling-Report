@@ -14,4 +14,4 @@ Alongside the guidance of my professor and help of my classmates, we attempted t
 Although this pipeline was only tested on the _WASP-135b_ dataset, it should theoretically work for any reasonably complete exoplanet dataset.
 
 ## Report
-📄 The full research paper is available as a PDF in this repository: [`Final_Written_Report.pdf`](./WASP-135b_Transit_Report.pdf)
+📄 The full research paper is available as a PDF in this repository: [`Final_Written_Report.pdf`](./Final_Written_Report.pdf)

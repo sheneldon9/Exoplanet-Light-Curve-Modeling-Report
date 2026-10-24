@@ -2,7 +2,7 @@
 
 This repository showcases my final written report for the project based course **AST325 (Observational Astronomy)** taken at the **University of Toronto Mississauga**.
 
-### **Synopsis:**
+## **Synopsis:**
 
 A popular way to detect possible exoplanets is to observe the drop in a star's brightness when said exoplanet passes it, called the _Transit Method_. Using ground based observations, we can try to predict plausible parameters (orbital period, semi-major axis, etc.) of the exoplanet.
 
